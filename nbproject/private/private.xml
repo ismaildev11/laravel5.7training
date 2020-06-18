@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/xampp/htdocs/hadi/resources/views/layouts/main.blade.php</file>
+            <file>file:/E:/xampp/htdocs/hadi/config/app.php</file>
+            <file>file:/E:/xampp/htdocs/hadi/.env</file>
+            <file>file:/E:/xampp/htdocs/hadi/resources/views/welcome.blade.php</file>
+            <file>file:/E:/xampp/htdocs/hadi/resources/views/index.blade.php</file>
+            <file>file:/E:/xampp/htdocs/hadi/routes/web.php</file>
+            <file>file:/E:/xampp/htdocs/hadi/resources/views/login.blade.php</file>
+            <file>file:/E:/xampp/htdocs/hadi/app/Http/Controllers/userlogincontroller.php</file>
+        </group>
+    </open-files>
+</project-private>
